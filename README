@@ -1,0 +1,6 @@
+Run `autogen.sh' - it will generate everything necessary for the build `configure'. 
+Then run 'configure' and `make' as usually. 
+
+    $ ./autogen.sh 
+    $ ./configure
+    $ make
