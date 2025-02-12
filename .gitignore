@@ -10,6 +10,8 @@ Make.common
 Makefile
 Makefile.in
 aclocal.m4
+build-aux
+src/config.in
 config
 config.guess
 config.h

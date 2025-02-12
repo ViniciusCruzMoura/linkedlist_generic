@@ -8,7 +8,7 @@ clean-local:
 	@rm Makefile
 	@rm -r autom4te.cache/
 	@rm aclocal.m4
-	@rm -r config/
+	@rm -r build-aux/
 	@rm -r src/.deps/
 	@rm -r Makefile.in
 	@rm -r src/Makefile

@@ -2,4 +2,4 @@
 
 set -e
 
-autoreconf -i --verbose --force
+${AUTORECONF:-autoreconf} -i --verbose --force
